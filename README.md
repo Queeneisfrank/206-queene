@@ -1,4 +1,4 @@
-# 206A
+# UP206A
 ##Description of the Course
 
  This course is a UCLA graduate Urban Planning course in GIS which offers an opportunity to work outside of typical cartographic boundaries. The purpose of the course is to engage in the foundations of data science. You will be equipt to understand data though learning the basics of Python. Students will utilize spatial analysis and produce advanced geoprocessing using real life datasets. Upon completion of the course student will be able to analyze and visualize data.
